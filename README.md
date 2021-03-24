@@ -12,7 +12,7 @@ int main(void){
 
 링크는 다음과 같이 작성
 
-[블로그 주소](http://blog.naver.com/vein90)
+[블로그 주소](https://blog.naver.com/vein90)
 
 순서 없는 목록은 다음과 같이 작성
 
